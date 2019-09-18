@@ -1,6 +1,10 @@
 Edge Detection and Digital Half-toning
 
+Description:
 
+Edge detection is a process of finding boundaries of image within images. Used different edge detection methods like Sobel Edge Detector, Canny Edge Detector, Structured Edge, tuned the parameters and compared their performances.
+
+Halftoning is a method for creating the illusion of continuous tone output with a binary device. Used different dithering techniques and error diffusion techniques for Digital Halfotoning for grayscale and color images.
 
 Requirements:
 

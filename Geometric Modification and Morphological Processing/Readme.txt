@@ -1,7 +1,8 @@
 Geometric Modification and Morphological processing
 
+Description:
 
-
+This assignment focuses on implementing different Geometric modifications, Spatial Warping, Lens Distortion Correction and also Morphological processes like shrinking, skeletonizing, thinning. Also used morphological processes for defect detection and object detection.
 
 Requirements:
 

@@ -1,7 +1,8 @@
-Interpreatable feedforward CNN and application to mnist
+Interpretable feedforward CNN and application to mnist
 
+Description:
 
-
+In this assignment, we try to understand a new design "Interpretatbe Feedforward Convolutional Networks" developed by prof C. C. Jay Kuo. This design is single pass unlike the back propagation technique of CNN. This design was tested on MNIST handwritten dataset.
 
 Usage: 
 

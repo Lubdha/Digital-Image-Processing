@@ -17,12 +17,15 @@ Halftoning is a method for creating the illusion of continuous tone output with 
 
 Use below commands to run all .cpp files
 
+~~~
 g++ filename.cpp
 ./filename InputImageName OutputImageName BytesPerPixel Width Height
-
+~~~
 
 For Structured Edge detection
+~~~
 Run edgesDemo.m
 >> I = imread('filename.jpg');
 >> E = edgesDetect(I, model);
 >> imshow(E)
+~~~
